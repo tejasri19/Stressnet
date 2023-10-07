@@ -2,9 +2,9 @@
 
 
 
-## Data Pre-processing with Orthomosaic using R libraries
+### Data Pre-processing with Orthomosaic (Raster file) using R libraries
 
-### To segment ROI (region of interest) from the orthomosaic, we have used R libraries. Our code is intended to process multiple shapefiles within a specified directory and crop a raster image using each shapefile's boundaries. A detailed description of the libraries used is provided below:
+#### To segment ROI (region of interest) from the orthomosaic, we have used R libraries. Our code is intended to process multiple shapefiles within a specified directory and crop a raster image using each shapefile's boundaries. A detailed description of the libraries used is provided below:
 
 1. rgdal, tools and raster are installed.
 2. The shapefile is loaded and processed using raster function.
