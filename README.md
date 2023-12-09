@@ -1,6 +1,6 @@
 ## StressNet: A spatial-spectral-temporal deformable attention-based framework for water stress classification in maize
 
-If you find our work useful, please cite as:
+If you find our code useful, please cite as:
 
 
 ```
