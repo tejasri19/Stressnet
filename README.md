@@ -3,7 +3,8 @@
 If you find our work useful, please cite as:
 
 
-```@article{nampally2023stressnet,
+```
+@article{nampally2023stressnet,
   title={StressNet: A Spatial-Spectral-Temporal Deformable Attention-based Framework for Water Stress Classification in Maize},
   author={Nampally, Tejasri and Kumar, Kshitiz and Chatterjee, Soumyajit and Pachamuthu, Rajalakshmi and Naik, Balaji and Desai, Uday B},
   journal={Frontiers in Plant Science},
@@ -12,3 +13,4 @@ If you find our work useful, please cite as:
   year={2023},
   publisher={Frontiers}
 }
+```
