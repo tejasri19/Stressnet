@@ -1,4 +1,6 @@
-## Github Repo for Frontiers in Plant Science Article "StressNet: A spatial-spectral-temporal deformable attention-based framework for water stress classification in maize"
+## StressNet
+
+### Github Repo for Frontiers in Plant Science Article "StressNet: A spatial-spectral-temporal deformable attention-based framework for water stress classification in maize"
 
 Article link: https://www.frontiersin.org/articles/10.3389/fpls.2023.1241921/full
 
