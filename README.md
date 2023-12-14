@@ -1,6 +1,17 @@
-## StressNet: A spatial-spectral-temporal deformable attention-based framework for water stress classification in maize
+## Github Repo for Frontiers in Plant Science Article "StressNet: A spatial-spectral-temporal deformable attention-based framework for water stress classification in maize"
 
-If you find our code useful, please cite as:
+Article link: https://www.frontiersin.org/articles/10.3389/fpls.2023.1241921/full
+
+Our experiments include days wise and channel wise analysis. 
+The code has been tested with PyTorch and Anaconda.
+
+Python == 3.8.17
+PyTorch == 1.8.0
+TorchVision == 0.9.0
+
+
+
+If you find our code useful in your research, please consider citing:
 
 
 ```
