@@ -10,6 +10,9 @@ Our experiments include days wise and channel wise analysis. The code has been t
 - PyTorch == 1.8.0
 - TorchVision == 0.9.0
 
+Overview of our proposed model:
+![alt text](https://github.com/tejasri19/Stressnet/blob/main/prop-model.png)
+
 
 
 If you find our code useful in your research, please consider citing:
